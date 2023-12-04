@@ -1,0 +1,2 @@
+gradio==2.4.1
+pymongo==3.12.0
